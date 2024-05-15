@@ -29,8 +29,8 @@ Visualize the training/validation loss and accuracy over epochs to understand th
 
 # Program:
 ```python
-NAME : ADHITHYARAM D
-REG.NO : 212222230008
+NAME : Thiyagarajan A
+REG.NO : 212222240110
 
 import numpy as np
 from tensorflow import keras
